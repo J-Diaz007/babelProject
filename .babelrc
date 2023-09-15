@@ -1,0 +1,4 @@
+// The following configuration is for transpiling any code with versions ES6 or later
+{
+    "presets": ["@babel/preset-env"]
+    }
